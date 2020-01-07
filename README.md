@@ -1,3 +1,5 @@
 Web Crawling in Python - Example
 ---
-This is based on thenewboston tutorial
+A simple, efficient and multi-threads web crawling in Python
+
+Note: This is based on thenewboston tutorial
